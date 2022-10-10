@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/CHEN-YiWen/Testimonials-grid-section)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -61,8 +61,8 @@ Users should be able to:
 ### Useful resources
 
 - [Learn CSS Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU&t=1515s) - Kevin Powell's video is fanstic for beginners like me who stuggle with using grid. By following this video step by step, I get to understand the basics about <code>display: grid</code> and how to properly use it in this challenge.
-- [<article>: The Article Contents element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) - This helped me to understand when and how to use <code>article</code>.
-- [7 Alternatives to the <div> HTML Tag](https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036) - I find that I constatnly refer back to Zac Heisey's article when I am not sure about whether I should put the contents into a <code>div</code>. His explanation is super helpful. 
+- [article: The Article Contents element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) - This helped me to understand when and how to use <code>article</code>.
+- [7 Alternatives to the div HTML Tag](https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036) - I find that I constatnly refer back to Zac Heisey's article when I am not sure about whether I should put the contents into a <code>div</code>. His explanation is super helpful. 
 
 ## Author
 
